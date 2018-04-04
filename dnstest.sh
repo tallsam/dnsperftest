@@ -18,6 +18,8 @@ PROVIDERS="
 176.103.130.132#adguard 
 156.154.70.3#neustar 
 8.26.56.26#comodo
+203.0.178.191#iinet
+202.59.96.140#getflixPerth
 "
 
 # Domains to test. Duplicated domains are ok
